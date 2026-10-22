@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: quarto_build
+
+execute:
+  freeze: auto
+date: last-modified  
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+
+website:
+  title: "manifests"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+     
+
+    right:
+      - icon: person-circle
+        menu:
+          - text: "imageviewer on github"
+            href: https://github.com/neelsmith/manifests        
+          - text: "Neel Smith: other projects"
+            href: https://neelsmith.github.io/projects/
+        aria-label: Home 
+
