@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "how.html",
+    "href": "how.html",
+    "title": "How it works",
+    "section": "",
+    "text": "IIIF manifest\nbuild URN map with iiif-cite\ndefine a project with JSON config in projects\nbuild with npm build tool"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "manifests",
+    "section": "",
+    "text": "A selection of image collections documenting Greek manuscripts, made canonically citable by URN.\n\nHerodotus\nPtolemy, Harmonics"
+  }
+]

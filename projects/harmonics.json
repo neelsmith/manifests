@@ -1,0 +1,19 @@
+{
+  "title": "Manuscripts of Ptolemy, Harmonics",
+  "collections": [
+    {
+      "label": "Barocci 41",
+      "manifest": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/manifests/barocci41-manifest.json",
+      "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/bodleian-library-ms-barocci-41-urns.cex"
+    },
+    {
+      "label": "Barocci 124",
+      "manifest": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/manifests/barocci124-manifest.json",
+      "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/bodleian-library-ms-barocci-124-urns.cex"
+    }
+
+
+
+  ],
+  "default": "Barocci 41"
+}
