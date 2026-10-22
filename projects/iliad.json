@@ -5,8 +5,12 @@
       "label": "Leipzig gr 32",
       "manifest": "https://iiif.ub.uni-leipzig.de/0000051484/manifest.json",
       "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/leipzig-gr-32-urns.cex"
+    }, 
+    {
+      "label": "Leiden VGF 64",
+      "manifest": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/manifests/leiden-vgf64-manifest.json",
+      "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/leiden-vgf64-urns.cex"
     }
-
 
 
   ],
