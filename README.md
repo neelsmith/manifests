@@ -1,2 +1,4 @@
 # manifests
-A selection of IIIF manifests
+
+
+A selection of IIIF manifests.
