@@ -5,6 +5,11 @@
       "label": "Barocci 114",
       "manifest": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/manifests/barocci114-manifest.json",
       "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/bodleian-library-ms-barocci-114-urns.cex"
+    },
+    {
+      "label": "Barocci 200",
+      "manifest": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/manifests/barocci200-manifest.json",
+      "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/bodleian-library-ms-barocci-200-urns.cex"
     }
     
 
