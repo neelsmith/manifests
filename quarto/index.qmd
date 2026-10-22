@@ -5,3 +5,4 @@ title: "`manifests`"
 A selection of image collections documenting Greek manuscripts, made canonically citable by URN.
 
 
+- [Herodotus](./herodotus.html)

@@ -1,0 +1,8 @@
+---
+title: "How it works"
+---
+
+- IIIF manifest
+- build URN map with `iiif-cite`
+- define a project with JSON config in `projects`
+- build with `npm` build tool
