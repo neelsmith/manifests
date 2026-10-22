@@ -1,0 +1,12 @@
+{
+  "name": "manifests-build",
+  "private": true,
+  "type": "module",
+  "description": "Builds iiif-cite viewer apps from ../projects/*.json into dist/",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node build.mjs",
+    "build:check": "node build.mjs --check-remote",
+    "test": "node --test \"test/*.test.mjs\""
+  }
+}
