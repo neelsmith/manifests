@@ -1,0 +1,15 @@
+{
+  "title": "Manuscripts of Herodotus",
+  "collections": [
+    {
+      "label": "Barocci 114",
+      "manifest": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/manifests/barocci114-manifest.json",
+      "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/bodleian-library-ms-barocci-114-urns.cex"
+    }
+    
+
+
+
+  ],
+  "default": "Barocci 114 "
+}
