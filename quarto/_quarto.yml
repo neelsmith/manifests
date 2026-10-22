@@ -26,7 +26,7 @@ website:
     right:
       - icon: person-circle
         menu:
-          - text: "imageviewer on github"
+          - text: "manifests on github"
             href: https://github.com/neelsmith/manifests        
           - text: "Neel Smith: other projects"
             href: https://neelsmith.github.io/projects/
