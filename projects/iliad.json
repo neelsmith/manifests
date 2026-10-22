@@ -1,0 +1,18 @@
+{
+  "title": "Iliad manuscripts with scholia",
+  "collections": [
+    {
+      "label": "Leipzig gr 32",
+      "manifest": "https://iiif.ub.uni-leipzig.de/0000051484/manifest.json",
+      "urns": "https://raw.githubusercontent.com/neelsmith/manifests/refs/heads/main/urnmaps/leipzig-gr-32-urns.cex"
+    }
+
+
+
+  ],
+  "default": "Leipzig gr 32"
+}
+
+
+
+
